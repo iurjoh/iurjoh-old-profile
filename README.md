@@ -2,6 +2,8 @@
 
 Olá, eu sou o Iuri Johansson / Hello, my name is Iuri Johansson
 
+![Balckhole](https://user-images.githubusercontent.com/106112049/174338078-e818b94b-61c8-46c4-9f15-aad898937ad5.jpg)
+
 ## Meus hobbies / My hobbies:
 
 - Aprender sobre coisas diversas / Learn about different things
