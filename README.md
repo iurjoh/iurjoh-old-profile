@@ -25,4 +25,4 @@ Olá, eu sou o Iuri Johansson / Hello, my name is Iuri Johansson
 - Email: iuri_abreu@hotmail.com
 - LinkedIn: Iuri Saraiva Johansson
 - Github: iurjoh
-- Instagram
+- Instagram: iurisaraivajohansson
